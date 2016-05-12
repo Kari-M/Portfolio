@@ -13,14 +13,14 @@ You have been asked to create a script that will automate this task, saving the 
 user interface to make using the script easier and more versatile. 
 
 Desired features of the UI: 
-  Allow the user to browse to and choose a specific folder that will 
+1.) Allow the user to browse to and choose a specific folder that will 
 contain the files to be checked daily. 
-  Allow the user to browse to and choose a specific folder that will 
+2.) Allow the user to browse to and choose a specific folder that will 
 receive the copied files. 
-  Allow the user to manually initiate the 'file check' process that 
+3.) Allow the user to manually initiate the 'file check' process that 
 is performed by the script.
-  Include a database that records the date/time of the file check runs.
-  Display the last 'file check date/time' on the UI
+4.) Include a database that records the date/time of the file check runs.
+5.) Display the last 'file check date/time' on the UI
  
  
 Return to [portfolio](https://github.com/Kari-M/Portfolio) 

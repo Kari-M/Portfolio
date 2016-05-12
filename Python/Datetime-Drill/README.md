@@ -1,7 +1,7 @@
 ### Datetime Drill
 ***
 
-This is a drill completed at The Tech Academy.  Students were asked to create a simple program with the following instructions:
+This is a Python drill completed at The Tech Academy.  Students were asked to create a simple program with the following instructions:
 
 Scenario: The company you work for just opened two new branches. One is in New York City,
 the other in London. They need a very simple program to find out if the branches are open or
